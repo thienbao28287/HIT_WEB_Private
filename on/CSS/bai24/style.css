@@ -1,0 +1,8 @@
+h1 {
+  opacity: 0.5;
+}
+input:checked ~ img {
+  /* display: none; */
+  /* visibility: hidden; */
+  opacity: 0.5;
+}
